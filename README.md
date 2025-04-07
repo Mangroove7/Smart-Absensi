@@ -1,6 +1,8 @@
 # Smart Absensi
-
+![](![Cuplikan layar 2024-12-18 182326](https://github.com/user-attachments/assets/f208dc9f-612d-4451-9d8f-9f44ca387596)
+)
 Smart-Absensi (smart attendance) adalah program yang memudahkan sekolah untuk melakukan absensi menggunakan pengenalan wajah dari murid dan langsung terekam secara sistematis. Dibuat menggunakan Python dan beberapa library, baik library ML & AI terutama deepface maupun library pengolahan data seperti pandas & numpy.
+**Proyek ini terinspirasi dari proyek bang Alvin Aprianto namun dengan versi lebih advance**
 
 ---
 
